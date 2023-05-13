@@ -14,3 +14,7 @@ pip install -r requirements.txt
 ## Explanation
 
 * The purpouse of this model is to predict the value market for a player based on some features like age, skills, attributes, etc.
+
+## Planning
+
+[Trello planning](https://trello.com/b/aOxSJZbv/fifa)
